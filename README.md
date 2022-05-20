@@ -3,6 +3,7 @@
 ## Table of Contents
 + [About the Game](https://github.com/mcmunchie/emaze#about-the-game)
 + [Input File](https://github.com/mcmunchie/emaze#input-file)
++ [Gameplay](https://github.com/mcmunchie/emaze#gameplay)
 + [About the Program](https://github.com/mcmunchie/emaze#about-the-program)
 + [Example Output](https://github.com/mcmunchie/emaze#example-output)
 
